@@ -303,6 +303,7 @@ footer .link a {
   html {
     font-size: 62.5%;
   }
+  /* Navbar */
   #hamburger-menu {
     display: inline-block;
   }
@@ -336,6 +337,45 @@ footer .link a {
   }
   .navbar .navbar-nav a:hover:after {
     transform: scaleX(0.2);
+  }
+
+  /* Home Section */
+  .home {
+    height: 100%;
+    width: 157vh;
+  }
+  .home .content img {
+    max-width: 23rem;
+    margin-bottom: 4rem;
+    margin-right: 3rem;
+  }
+
+  /* About Section */
+  .about {
+    height: 100vh;
+    width: 157vh;
+  }
+  .about .content p {
+    width: 96rem;
+    font-size: 3rem;
+    font-weight: 400;
+  }
+
+  /* Project Section */
+  .project {
+    height: 210vh;
+    width: 157vh;
+  }
+
+  /* contact Section */
+  .contact {
+    height: 100%;
+    width: 157vh;
+  }
+
+  footer {
+    height: 100%;
+    width: 157vh;
   }
 }
 /* Handphone */
