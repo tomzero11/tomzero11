@@ -340,7 +340,7 @@ footer .link a {
   }
 
   /* Home Section */
-  .home {
+  /* .home {
     height: 100%;
     width: 157vh;
   }
@@ -348,10 +348,10 @@ footer .link a {
     max-width: 23rem;
     margin-bottom: 4rem;
     margin-right: 3rem;
-  }
+  } */
 
   /* About Section */
-  .about {
+  /* .about {
     height: 100vh;
     width: 157vh;
   }
@@ -359,16 +359,16 @@ footer .link a {
     width: 96rem;
     font-size: 3rem;
     font-weight: 400;
-  }
+  } */
 
   /* Project Section */
-  .project {
+  /* .project {
     height: 210vh;
     width: 157vh;
-  }
+  } */
 
   /* contact Section */
-  .contact {
+  /* .contact {
     height: 100%;
     width: 157vh;
   }
@@ -376,7 +376,7 @@ footer .link a {
   footer {
     height: 100%;
     width: 157vh;
-  }
+  } */
 }
 /* Handphone */
 @media (max-width: 450px) {
